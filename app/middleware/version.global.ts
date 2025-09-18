@@ -8,12 +8,8 @@ export default defineNuxtRouteMiddleware((to) => {
   // Array of paths to ignore for version prepending
   const ignoredPaths = [
     '/',
-    '/login',
-    '/about',
-    '/api',
     '/favicon.ico',
     '/images'
-    // Add more as needed
   ]
 
   // Check if path should be ignored
