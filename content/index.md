@@ -50,7 +50,7 @@ Quick Links
   ::card
   ---
   title: Getting Started
-  to: https://github.com/nuxt-ui-templates/dashboard
+  to: /getting-started
   target: _blank
   ---
   Getting started with modding Eco.
@@ -59,7 +59,7 @@ Quick Links
   ::card
   ---
   title: Placeholder
-  to: https://github.com/nuxt-ui-templates/dashboard
+  to: /getting-started
   target: _blank
   ---
   A dashboard with multi-column layout.
@@ -68,7 +68,7 @@ Quick Links
   ::card
   ---
   title: Placeholder
-  to: https://github.com/nuxt-ui-templates/dashboard
+  to: h/getting-started
   target: _blank
   ---
   A dashboard with multi-column layout.
