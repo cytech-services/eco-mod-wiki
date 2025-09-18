@@ -51,7 +51,6 @@ Quick Links
   ---
   title: Getting Started
   to: /getting-started
-  target: _blank
   ---
   Getting started with modding Eco.
   ::
@@ -60,7 +59,6 @@ Quick Links
   ---
   title: Placeholder
   to: /getting-started
-  target: _blank
   ---
   A dashboard with multi-column layout.
   ::
@@ -69,7 +67,6 @@ Quick Links
   ---
   title: Placeholder
   to: h/getting-started
-  target: _blank
   ---
   A dashboard with multi-column layout.
   ::
